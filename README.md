@@ -1,6 +1,6 @@
 
 
-**!\* This is a refactoring of the original. The original was programmed for functionality and expediency, which caused technical debt, mostly in the form of programming too much in a single class. This refactored version aims to make the code more readable and extensible \*!**
+**!\* This is a refactoring of the original. This refactored version aims to make the code more readable and extensible. The refactoring mostly involved extracting behaviors to their own classes. The original code can be found [here](https://github.com/br36b/CS4500-The-Rectangle-Problem) \*!**
 
 # CS4500 - The Rectangle Problem
 This project is based on this [Numberphile](https://www.youtube.com/watch?v=VZ25tZ9z6uI) video.
